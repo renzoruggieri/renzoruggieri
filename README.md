@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @renzoruggieri
+- 👀 I am a professional musician with a hobby of programming. From Basic to Visual Basic to Delphi to JS to C ++ I've always enjoyed making music software for my students and something for me to bring to my concerts. 
+- 🌱 I'm currently learning JUCE for building plug-ins and low latency software.
+- 💞️ I’m looking to collaborate on making (open source) software with internal sounds (or soundfont banks) that can be played live directly from the computer. I have already made the interface and specs. I also have a working copy of the program but still far from being a stable product.
+- 📫 How to reach me in my official page: www.renzoruggieri.com
